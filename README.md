@@ -1,2 +1,2 @@
-# Entanglement
+# Entangled
 Dating Dapp
